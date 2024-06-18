@@ -1,1 +1,1 @@
-# gen_AI_assign3
+# Generative AI Models - Assignment 3 - Diffusion Model: Face Generation
