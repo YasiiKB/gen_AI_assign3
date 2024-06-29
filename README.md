@@ -1,7 +1,8 @@
-# Generative AI Models - Assignment 3 - Diffusion Model: Face Generation
+# Generative AI - Assignment 3 - Diffusion Models
 
+Implementing a diffusion model trained on CelebA dataset to generated images of human faces
 
-## Reference
-The initial code was taken from: https://colab.research.google.com/drive/1sjy9odlSSy0RBVgMTgP7s99NXsqglsUL?usp=sharing
-
-Based on this tutorial: https://www.youtube.com/watch?v=a4Yfz2FxXiY
+**Sources:**
+- Colab Notebook [Diffusion Model](https://colab.research.google.com/drive/1sjy9odlSSy0RBVgMTgP7s99NXsqglsUL?usp=sharing#scrollTo=k13hj2mciCHA)
+- YouTube Tutorial [Diffusion models from scratch in PyTorch](https://www.youtube.com/watch?v=a4Yfz2FxXiY)
+- Papers on Diffusion models ([Ho et al., 2020] ect.)
